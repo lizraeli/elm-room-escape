@@ -1,0 +1,18 @@
+{
+  "name": "elm-escape-the-room",
+  "version": "1.0.0",
+  "description": "Escape The Room Text-Based Game",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "elm-format": "^0.6.1-alpha"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
